@@ -50,8 +50,8 @@ The following images show the actual hardware implementation of my Arduino Dista
 
 ### Hardware Setup
 
-![Arduino Distance Alert System](IMG_7519.jpeg)
+![Distance Alert System Operation](./IMG_9015.jpeg)
 
 ### Project Demonstration
 
-![Distance Measurement and Alert System](IMG_9015.jpeg)
+![Arduino Hardware Implementation](./IMG_7519.jpeg)
