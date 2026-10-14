@@ -50,12 +50,12 @@ to demonstrate the practical development of this project.
 
 ### 1. System Operation
 
-![Distance Alert System](../IMG_9015.jpeg)
+![Distance Alert System](IMG_9015.jpeg)
 
-[🔍 Click to View Full Image](../IMG_9015.jpeg)
+[Click to View Full Image](IMG_9015.jpeg)
 
 ### 2. Hardware Implementation
 
-![Hardware Implementation](../IMG_7519.jpeg)
+![Hardware Implementation](IMG_7519.jpeg)
 
-[🔍 Click to View Full Image](../IMG_7519.jpeg)
+[Click to View Full Image](IMG_7519.jpeg)
