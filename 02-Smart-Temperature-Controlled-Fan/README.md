@@ -74,6 +74,14 @@ additional cooling.
 
 ## Project Evidence
 
-Arduino source code and project photos
-demonstrate the practical implementation
-of this system.
+Arduino source code and project photos demonstrate the practical implementation of this system.
+
+### Normal Temperature Operation
+![Normal Temperature](IMG_9016.jpeg)
+
+[View Full Image](IMG_9016.jpeg)
+
+### Moderate Temperature Operation
+![Moderate Temperature](IMG_9017.jpeg)
+
+[View Full Image](IMG_9017.jpeg)
