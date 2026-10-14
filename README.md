@@ -43,3 +43,15 @@ The system uses three LED indicators to represent different temperature levels:
 - Basic Automation and Control Systems
 - LCD Interfacing
 - PWM-Based Fan Control
+
+## Actual Project Implementation
+
+The following images show the actual hardware implementation of my Arduino Distance Alert System.
+
+### Hardware Setup
+
+![Arduino Distance Alert System](IMG_7519.jpeg)
+
+### Project Demonstration
+
+![Distance Measurement and Alert System](IMG_9015.jpeg)
