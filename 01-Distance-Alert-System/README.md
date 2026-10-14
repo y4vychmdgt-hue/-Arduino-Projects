@@ -14,7 +14,7 @@ activate an alert when the object gets too close.
 The ultrasonic sensor continuously measures the
 distance between the sensor and nearby objects.
 
-When the measured distance is less than 20 cm,
+When the measured distance is 20 cm or less,
 the Arduino activates:
 
 - A red LED as a visual warning.
@@ -22,6 +22,8 @@ the Arduino activates:
 
 When the distance is 20 cm or more, the alert
 remains inactive.
+
+The measured distance is displayed in real time on a 16×2 LCD screen, allowing users to monitor the distance while the system automatically activates an LED and buzzer when the distance is 20 cm or less.
 
 ## Components
 
@@ -31,6 +33,7 @@ remains inactive.
 - Buzzer
 - Breadboard
 - Jumper Wires
+- 16×2 LCD Display
 
 ## Skills Demonstrated
 
