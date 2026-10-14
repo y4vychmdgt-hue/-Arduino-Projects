@@ -1,6 +1,4 @@
-# My Arduino Skills
-
-## About Me
+##Arduino-Programming-and-Practical-Skills
 
 I am passionate about Arduino programming and enjoy exploring its possibilities through personal projects.
 
